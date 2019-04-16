@@ -1,0 +1,1 @@
+# Estatisticas_da_Colecao_e_Lei_de_Zipf
